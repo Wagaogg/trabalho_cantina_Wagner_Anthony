@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Banco de dados local (cada máquina tem o seu)
+pedidos.db
+
+# QR codes gerados em runtime
+assets/qrcodes/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
